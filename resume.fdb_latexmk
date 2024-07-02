@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1719884005.50943 "d:/COLLEGE/Placements/Latex resume/resume.tex" "resume.pdf" "resume" 1719884006.47739 0
+["pdflatex"] 1719884942.77264 "d:/COLLEGE/Placements/Latex resume/resume.tex" "resume.pdf" "resume" 1719884943.65117 0
   "C:/Users/hp/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719851642 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/hp/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1719851650 12668 98cd4a97e19ece1565498489136b38b4 ""
   "C:/Users/hp/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1719843583 24223629 79e7fc81b86efa49abdfb5c16b259d70 ""
@@ -66,11 +66,11 @@
   "C:/Users/hp/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/hp/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1700599895 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
   "C:/Users/hp/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/COLLEGE/Placements/Latex resume/resume.tex" 1719884003 5712 9b0dcc3a2a56a1b953cef7e51dd1ef12 ""
-  "resume.aux" 1719884006 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "d:/COLLEGE/Placements/Latex resume/resume.tex" 1719884941 5719 e9ce8017db9971f66910cff2c4d4642a ""
+  "resume.aux" 1719884943 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
   "resume.cls" 1719851506 5067 3b3b57f3c8b0790ce01c73fdc59aee7a ""
-  "resume.out" 1719884006 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1719884003 5712 9b0dcc3a2a56a1b953cef7e51dd1ef12 ""
+  "resume.out" 1719884943 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1719884941 5719 e9ce8017db9971f66910cff2c4d4642a ""
   (generated)
   "resume.aux"
   "resume.log"
