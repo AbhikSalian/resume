@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.7.1)  2 JUL 2024 07:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.7.1)  4 JUL 2024 23:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -267,6 +267,11 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 11--11
 [] 
  []
 
+
+Overfull \hbox (5.19603pt too wide) in paragraph at lines 53--59
+[][] 
+ []
+
 [1
 
 {C:/Users/hp/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (resume.aux)
@@ -280,13 +285,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  8774 strings out of 474486
  137930 string characters out of 5745172
- 1941542 words of memory out of 5000000
+ 1940542 words of memory out of 5000000
  30979 multiletter control sequences out of 15000+600000
  562409 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,6n,81p,615b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 80051 bytes).
+Output written on resume.pdf (1 page, 80030 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
