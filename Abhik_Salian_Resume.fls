@@ -1,7 +1,7 @@
 PWD d:\COLLEGE\Placements\Latex resume
 INPUT C:\Users\hp\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\COLLEGE\Placements\Latex resume\resume.tex
-OUTPUT resume.log
+INPUT d:\COLLEGE\Placements\Latex resume\Abhik_Salian_Resume.tex
+OUTPUT Abhik_Salian_Resume.log
 INPUT .\resume.cls
 INPUT resume.cls
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -86,10 +86,10 @@ INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\resume.aux
-INPUT .\resume.aux
-INPUT resume.aux
-OUTPUT resume.aux
+INPUT .\Abhik_Salian_Resume.aux
+INPUT .\Abhik_Salian_Resume.aux
+INPUT Abhik_Salian_Resume.aux
+OUTPUT Abhik_Salian_Resume.aux
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
@@ -104,14 +104,14 @@ INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.m
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT .\resume.out
-INPUT .\resume.out
-INPUT resume.out
-INPUT resume.out
-INPUT .\resume.out
-INPUT .\resume.out
-OUTPUT resume.out
-OUTPUT resume.pdf
+INPUT .\Abhik_Salian_Resume.out
+INPUT .\Abhik_Salian_Resume.out
+INPUT Abhik_Salian_Resume.out
+INPUT Abhik_Salian_Resume.out
+INPUT .\Abhik_Salian_Resume.out
+INPUT .\Abhik_Salian_Resume.out
+OUTPUT Abhik_Salian_Resume.out
+OUTPUT Abhik_Salian_Resume.pdf
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -126,9 +126,9 @@ INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
 INPUT C:\Users\hp\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT resume.aux
-INPUT .\resume.out
-INPUT .\resume.out
+INPUT Abhik_Salian_Resume.aux
+INPUT .\Abhik_Salian_Resume.out
+INPUT .\Abhik_Salian_Resume.out
 INPUT C:\Users\hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\hp\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
